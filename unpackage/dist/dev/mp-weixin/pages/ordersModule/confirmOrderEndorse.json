@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "确认订单（改签）",
+  "navigationBarBackgroundColor": "#007AFF",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "ticket-date": "/components/ticket-date",
+    "comfirm-order": "/components/comfirm-order"
+  }
+}

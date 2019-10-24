@@ -1,0 +1,115 @@
+[{
+		"trainId": "01",
+		"tailName": "G101",
+		"startTrainName": "北京南",
+		"startTrainCity": "北京",
+		"startTrainState": "始",
+		"departureTime": "06:43",
+		"timeLength": "5小时57分钟",
+		"endTrainName": "上海虹桥",
+		"arrivalTime": "12:40",
+		"endTrainCity": "上海",
+		"endTrainState": "终",
+		"seat": [{
+			"seatId":0,
+			"number": 0,
+			"name": "商务",
+			"price": 1748
+		}, {
+			"seatId":1,
+			"number": 30,
+			"name": "一等",
+			"price": 933
+		}, {
+			"seatId":2,
+			"number": 1030,
+			"name": "二等",
+			"price": 553
+		}]
+	}, {
+		"trainId": "02",
+		"tailName": "G5",
+		"startTrainName": "北京南",
+		"startTrainCity": "北京",
+		"startTrainState": "始",
+		"departureTime": "07:00",
+		"timeLength": "4小时40分钟",
+		"endTrainName": "上海",
+		"arrivalTime": "11:40",
+		"endTrainCity": "上海",
+		"endTrainState": "终",
+		"seat": [{
+			"number": 10,
+			"name": "商务",
+			"price": 1762.5
+		}, {
+			"number": 0,
+			"name": "一等",
+			"price": 939
+		}, {
+			"number": 80,
+			"name": "二等",
+			"price": 558
+		}]
+	},
+	{
+		"trainId": "03",
+		"tailName": "D701",
+		"startTrainName": "北京",
+		"startTrainCity": "北京",
+		"startTrainState": "始",
+		"departureTime": "19:22",
+		"timeLength": "12小时3分钟",
+		"endTrainName": "上海",
+		"arrivalTime": "07:25",
+		"endTrainCity": "上海",
+		"endTrainState": "过",
+		"seat": [{
+			"number": 10,
+			"name": "二等",
+			"price": 293
+		}, {
+			"number": 80,
+			"name": "一等卧",
+			"price": 601
+		}, {
+			"number": 10,
+			"name": "二等卧",
+			"price": 440
+		}, {
+			"number": 10,
+			"name": "无座",
+			"price": 293
+		}]
+	},
+	{
+		"trainId": "04",
+		"tailName": "Z281",
+		"startTrainName": "北京",
+		"startTrainCity": "北京",
+		"startTrainState": "过",
+		"departureTime": "18:56",
+		"timeLength": "14小时57分钟",
+		"endTrainName": "上海南",
+		"arrivalTime": "09:53",
+		"endTrainCity": "上海",
+		"endTrainState": "过",
+		"seat": [{
+			"number": 9,
+			"name": "软卧",
+			"price": 476.5
+		}, {
+			"number": 20,
+			"name": "硬卧",
+			"price": 304.5
+		}, {
+			"number": 10,
+			"name": "硬座",
+			"price": 177.5
+		}, {
+			"number": 200,
+			"name": "无座",
+			"price": 177.5
+		}]
+	}
+]

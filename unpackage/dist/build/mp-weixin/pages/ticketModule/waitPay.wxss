@@ -1,0 +1,24 @@
+
+.page {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	background-color: #F8F8F8;
+	padding-top: 70rpx;
+	overflow: hidden;
+}
+.uni-countdown__number {
+	font-size: 30rpx !important;
+	padding: 0 !important;
+}
+.uni-countdown__number:first-child {
+	display: none;
+}
+.uni-countdown__splitor:nth-child(2){
+	display: none ;
+}
+

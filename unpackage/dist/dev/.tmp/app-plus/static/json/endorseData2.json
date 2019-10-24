@@ -1,0 +1,36 @@
+[{
+	"orderId": "02",
+	"tailName": "G101",
+	"orderType": true,
+	"orderCode": "E100918236",
+	"startTrainName": "北京南",
+	"startTrainCity": "北京",
+	"startTrainState": "始",
+	"departureTime": "06:43",
+	"timeLength": "5小时57分钟",
+	"endTrainName": "上海虹桥",
+	"arrivalTime": "12:40",
+	"endTrainCity": "上海",
+	"endTrainState": "终",
+	"arrivalDate": "2019-06-08",
+	"userSeat": [{
+		"seatId": 0,
+		"seatP": "04车011号",
+		"name": "二等",
+		"adult": "成人票",
+		"certificateId": "438000299918284",
+		"user": "张三",
+		"price": 566,
+		"certificate": "居民身份证"
+	}],
+	"endorseUserSeat":[{
+		"seatId": 0,
+		"seatP": "04车021号",
+		"name": "软卧",
+		"adult": "成人票",
+		"certificateId": "438000299918284",
+		"user": "张三",
+		"price": 1560,
+		"certificate": "居民身份证"
+	}]
+}]

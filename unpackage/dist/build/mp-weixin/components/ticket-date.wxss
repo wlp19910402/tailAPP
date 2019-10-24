@@ -1,0 +1,32 @@
+
+.query-content {
+	background: #007AFF;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 70rpx;
+	width: 100%;
+}
+.time-box {
+	background-color: #FFFFFF;
+	width: 340rpx;
+	text-align: center;
+	line-height: 60rpx;
+	margin: 0 auto;
+	height: 60rpx;
+	border: 1rpx solid #eee;
+	border-radius: 6rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	font-size: 32rpx;
+}
+.time-box .time-icon {
+	width: 50rpx;
+	height: 50rpx;
+	vertical-align: middle;
+	margin-top: -5rpx;
+}
+.query-time-box {
+	padding-bottom: 20rpx;
+}
+

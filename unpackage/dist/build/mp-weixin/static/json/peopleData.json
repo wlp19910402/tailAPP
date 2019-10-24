@@ -1,0 +1,23 @@
+[
+	{
+		"peopleId": 2,
+		"name":"张三",
+		"certificate": "居民身份证",
+		"certificateId":"438000299918284",
+		"adult": "成人票"
+	},
+	{
+		"peopleId": 2,
+		"name":"李四",
+		"certificate": "居民身份证",
+		"certificateId":"438000299921227",
+		"adult": "成人票"
+	},
+	{
+		"peopleId": 2,
+		"name":"王五",
+		"certificateId":"438000299919826",
+		"certificate": "居民身份证",
+		"adult": "成人票"
+	}
+]

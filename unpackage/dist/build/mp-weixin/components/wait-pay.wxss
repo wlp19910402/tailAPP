@@ -1,0 +1,273 @@
+
+.endorse-box {
+	width: 100%;
+	border-top: 1rpx solid #EEEEEE;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.endorse-menu-active {
+	border-bottom: 8rpx solid #007AFF;
+}
+.endorse-box .flex-box {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+	color: #007AFF;
+	line-height: 80rpx;
+	text-align: center;
+	font-size: 28rpx;
+	font-weight: 300
+}
+.min-font-size {
+	font-size: 24rpx;
+}
+.ticket-price {
+	color: #ff9000;
+	font-size: 36rpx;
+}
+.refund-box {
+	clear: both;
+	width: 690rpx;
+	margin: 30rpx 30rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	font-size: 30rpx;
+	line-height: 50rpx;
+}
+.refund-text{color: #333333;}
+.user-box {
+	width: 690rpx;
+	margin: 30rpx 30rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	padding: 50rpx 30rpx 20rpx;
+	font-size: 28rpx;
+	line-height: 50rpx;
+	-webkit-box-shadow: 0 0 4rpx 0 #dddddd;
+	        box-shadow: 0 0 4rpx 0 #dddddd;
+}
+.user-certificate {
+	color: #cccccc;
+	font-weight: 300;
+}
+.user-adult {
+	color: #66AFFF;
+	border: 1rpx solid #66AFFF;
+	padding: 0 10rpx;
+	margin-left: 10rpx;
+}
+.ticket-seat {
+	color: #666666;
+	clear: both;
+	font-weight: 300;
+}
+.pay-order-header {
+	width: 100%;
+	padding: 20rpx 30rpx 140rpx;
+	background-color: #007AFF;
+	color: #ffffff;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.pay-order-header-text {
+	font-size: 30rpx;
+	line-height: 30rpx;
+}
+.pay-order-time-icon {
+	width: 30rpx;
+	height: 30rpx;
+	vertical-align: bottom;
+	margin-right: 10rpx;
+}
+.pay-order-content {
+	position: absolute;
+	top: 70rpx;
+}
+.pay-order-box {
+	width: 690rpx;
+	margin-left: 30rpx;
+
+	background-color: #ffffff;
+	border-radius: 6rpx;
+	padding: 30rpx 30rpx 0;
+	color: #333333;
+	-webkit-box-shadow: 0 0 10rpx 0 #BBBBBB;
+	        box-shadow: 0 0 10rpx 0 #BBBBBB;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.arrival-icon {
+	width: 200rpx;
+	height: 20rpx;
+	margin: -10rpx auto 0;
+	display: block;
+	opacity: 0.6;
+}
+.arrival-time {
+	width: 100%;
+	text-align: center;
+	font-size: 24rpx;
+	color: #999;
+}
+.trainName {
+	font-size: 30rpx;
+	line-height: 52rpx;
+}
+.textAlignLeft {
+	text-align: left;
+}
+.textAlignRight {
+	text-align: right;
+}
+.train-time {
+	font-size: 48rpx;
+	font-weight: 350;
+	line-height: 64rpx;
+}
+.departure-time {
+	font-size: 24rpx;
+	color: #666666;
+	padding-bottom: 30rpx;
+}
+.seat-box {
+	width: 750rpx;
+	padding: 20rpx;
+	overflow: hidden;
+	background-color: #ffffff;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.seat-list {
+	font-size: 24rpx;
+	line-height: 36rpx;
+	width: 33%;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	float: left;
+	text-align: center;
+}
+.seat-name {
+	font-size: 30rpx;
+	line-height: 40rpx;
+}
+.seat-price {
+	color: #666666;
+}
+.gray-color {
+	color: #aaa;
+}
+.green-color {
+	color: #aced6d;
+}
+.flex-box {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+	padding: 0 10rpx;
+	text-align: center;
+}
+.ticket-box {
+	background-color: #ffffff;
+	width: 100%;
+	padding: 10rpx 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	border-bottom: 1rpx dotted #ddd;
+}
+.tail-name {
+	font-size: 30rpx;
+	line-height: 48rpx;
+}
+.tail-detail {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding-bottom: 20rpx;
+}
+.tail-btn {
+	background-color: #007AFF !important;
+	width: 710rpx;
+	margin: 40rpx auto 0;
+}
+.floatLeft {
+	float: left;
+}
+.floatRight {
+	float: right;
+}
+.pay-bottom-tab-box {
+	width: 100%;
+	height: 100rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	border-top: 1rpx solid #eeeeee;
+}
+.pay-tab-price {
+	line-height: 100rpx;
+	margin-left: 30rpx;
+}
+.pay-tab-price-name {
+	font-size: 30rpx;
+	color: #AAAAAA;
+	font-weight: 300;
+}
+.pay-tab-price-val {
+	font-size: 40rpx;
+	color: #ff9000;
+}
+.pay-bottom-tab-2 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.pay-bottom-tab-1 .pay-close,
+.pay-bottom-tab-1 .pay-comfrim {
+	width: 200rpx;
+}
+.pay-bottom-tab-2 .pay-close,
+.pay-bottom-tab-2 .pay-comfrim {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+}
+.pay-close {
+	line-height: 100rpx;
+	font-size: 32rpx;
+	text-align: center;
+	color: #999999;
+	display: inline-block;
+}
+.pay-comfrim {
+	line-height: 100rpx;
+	height: 100rpx;
+	background-color: #ff9000;
+	color: #ffffff;
+	font-size: 32rpx;
+	text-align: center;
+	display: inline-block;
+}
+.uni-countdown__number {
+	font-size: 30rpx !important;
+	padding: 0 !important;
+}
+.uni-countdown__number:first-child {
+	display: none;
+}
+.uni-countdown__splitor:nth-child(2) {
+	display: none;
+}
+

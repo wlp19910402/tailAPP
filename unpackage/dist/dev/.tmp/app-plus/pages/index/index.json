@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "亚大铁路",
+  "usingComponents": {
+    "index-query": "/components/index-query"
+  }
+}

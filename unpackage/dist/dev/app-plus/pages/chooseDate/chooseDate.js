@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"taph { position: fixed; width: ",[0,200],"; height: ",[0,200],"; color: #ffffff; background: red; }\n",],undefined,{path:"./pages/chooseDate/chooseDate.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/chooseDate/chooseDate.wxml') } }));

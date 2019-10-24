@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "已支付",
+  "navigationBarBackgroundColor": "#007AFF",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "paid-order-list": "/components/paid-order-list"
+  }
+}

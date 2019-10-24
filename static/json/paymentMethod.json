@@ -1,0 +1,41 @@
+[{
+	"paymentMethodId": "01",
+	"paymentMethodIcon":"../../static/images/gongshang-icon.jpg",
+	"paymentMethodName":"工商银行"
+},{
+	"paymentMethodId": "02",
+	"paymentMethodIcon":"../../static/images/nongye-icon.jpg",
+	"paymentMethodName":"农业银行"
+},{
+	"paymentMethodId": "03",
+	"paymentMethodIcon":"../../static/images/jianshe-icon.jpg",
+	"paymentMethodName":"建设银行"
+},{
+	"paymentMethodId": "04",
+	"paymentMethodIcon":"../../static/images/zhongguo-icon.jpg",
+	"paymentMethodName":"中国银行"
+},{
+	"paymentMethodId": "05",
+	"paymentMethodIcon":"../../static/images/zhaoshang-icon.jpg",
+	"paymentMethodName":"招商银行"
+},{
+	"paymentMethodId": "06",
+	"paymentMethodIcon":"../../static/images/youchu-icon.jpg",
+	"paymentMethodName":"邮储银行"
+},{
+	"paymentMethodId": "07",
+	"paymentMethodIcon":"../../static/images/zhifubao-icon.jpg",
+	"paymentMethodName":"支付宝"
+},{
+	"paymentMethodId": "08",
+	"paymentMethodIcon":"../../static/images/weixin-icon.jpg",
+	"paymentMethodName":"微信支付"
+},{
+	"paymentMethodId": "09",
+	"paymentMethodIcon":"../../static/images/yinlian-icon.jpg",
+	"paymentMethodName":"中国银联"
+},{
+	"paymentMethodId": "10",
+	"paymentMethodIcon":"../../static/images/zhongguo-icon.jpg",
+	"paymentMethodName":"外卡支付"
+}]

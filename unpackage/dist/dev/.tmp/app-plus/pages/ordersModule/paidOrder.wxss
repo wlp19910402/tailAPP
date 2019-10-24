@@ -1,0 +1,85 @@
+
+.floatLeft {
+	float: left;
+}
+.floatRight {
+	float: right;
+}
+.pageGray {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	min-height: 100%;
+	background-color: #EEEEEE;
+}
+.have-pay-header-box {
+	width: 100%;
+	margin-bottom: 30rpx;
+	background-color: #FFFFFF;
+	overflow: hidden;
+}
+.have-pay-header-list {
+	width: 50%;
+	text-align: center;
+	line-height: 80rpx;
+	float: left;
+}
+.have-pay-header-list text {
+	font-size: 32rpx;
+	font-weight: 300;
+	width: 200rpx;
+	display: block;
+	height: 80rpx;
+	border: 8rpx solid #FFFFFF;
+	margin: 0 auto;
+}
+.have-pay-header-list-active text {
+	color: #007AFF;
+	border-bottom: 8rpx solid #007AFF;
+}
+.query-order {
+	width: 100%;
+}
+.have-pay-order-box {
+	width: 100%;
+	background-color: #F8F8F8;
+	overflow: hidden;
+	margin-bottom: 30rpx;
+}
+.order-header-title-box {
+	width: 100%;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	padding: 0 30rpx;
+	line-height: 80rpx;
+	font-size: 32rpx;
+	font-weight: 300;
+	background-color: #FFFFFF;
+	overflow: hidden;
+}
+.order-header-title-icon {
+	width: 30rpx;
+	height: 30rpx;
+	vertical-align: middle;
+	margin-right: 20rpx;
+	margin-top: -10rpx;
+}
+.order-header-title-detail {
+	color: #666666;
+}
+.order-content-box {
+	padding: 20rpx 30rpx 20rpx 80rpx;
+	overflow: hidden;
+	line-height: 46rpx;
+}
+.order-content-box .floatLeft {
+	font-size: 28rpx;
+	font-weight: 300;
+}
+.order-content-box .floatRight {
+	color: #007AFF;
+	font-size: 30rpx;
+}
+

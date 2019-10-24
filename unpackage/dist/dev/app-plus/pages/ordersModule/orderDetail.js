@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"page { position: absolute; left: 0; top: 0; width: 100%; height: 100%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; background-color: #F8F8F8; padding-top: ",[0,70],"; overflow: hidden; }\n",],undefined,{path:"./pages/ordersModule/orderDetail.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/ordersModule/orderDetail.wxml') } }));

@@ -1,0 +1,126 @@
+
+.content {
+	text-align: center;
+	height: 400rpx;
+}
+.logo {
+	height: 200rpx;
+	width: 200rpx;
+	margin-top: 200rpx;
+}
+.title {
+	font-size: 36rpx;
+	color: #8f8f94;
+}
+.swiper {
+	height: 350rpx;
+	width: 750rpx;
+}
+.swiper image {
+	height: 350rpx;
+	width: 750rpx;
+}
+.query-ticket-box {
+	width: 690rpx;
+	padding: 0 30rpx 20rpx;
+	background-color: #FFFFFF;
+	-webkit-box-shadow: 0 0 8rpx 0 #999;
+	        box-shadow: 0 0 8rpx 0 #999;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	position: absolute;
+	left: 30rpx;
+	top: 260rpx;
+	-moz-border-radius: 20rpx;
+	     border-radius: 20rpx;
+}
+.query-ticket-state {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	height: 80rpx;
+	border-top: 1rpx solid #eee;
+	padding: 20rpx 0;
+}
+.query-ticket-state:first-child {
+	border-top: none;
+}
+.state-icon {
+	width: 80rpx;
+	height: 80rpx;
+	display: block;
+}
+.state-name {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	   -moz-box-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+	line-height: 80rpx;
+	font-size: 36rpx;
+}
+.state-name-gray{color: #999999;}
+.time-name {
+	font-size: 20rpx;
+	padding: 0 20rpx;
+	line-height: 80rpx;
+	color: #999;
+	vertical-align: bottom;
+}
+.go-date {
+	font-size: 36rpx;
+	line-height: 80rpx;
+	vertical-align: bottom;
+}
+.time-week {
+	font-size: 20rpx;
+	color: #888;
+	line-height: 80rpx;
+	vertical-align: bottom;
+	padding-left: 20rpx;
+}
+.tail-btn {
+	background-color: #007AFF !important;
+}
+.checkbox-box {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	font-size: 28rpx;
+	color: #333;
+	width: 100%;
+	line-height: 80rpx;
+}
+.checkbox-box label {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	   -moz-box-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+}
+.ad-image-box {
+	width: 690rpx;
+	position: absolute;
+	left: 30rpx;
+	top: 760rpx;
+	margin-bottom: 20rpx;
+}
+.ad-image-box image {
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	padding: 20rpx;
+	border: 1rpx solid #eee;
+	height: 200rpx;
+	width: 100%;
+	-moz-border-radius: 10rpx;
+	     border-radius: 10rpx;
+	margin: 10rpx 0;
+}
+

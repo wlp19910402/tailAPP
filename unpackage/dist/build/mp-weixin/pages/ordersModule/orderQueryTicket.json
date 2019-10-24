@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "<>",
+  "navigationBarBackgroundColor": "#007AFF",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "ticket-date": "/components/ticket-date",
+    "train-list": "/components/train-list"
+  }
+}

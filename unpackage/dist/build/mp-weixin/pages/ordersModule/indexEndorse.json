@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "车票预订(改签)",
+  "navigationBarBackgroundColor": "#007AFF",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "index-query": "/components/index-query"
+  }
+}

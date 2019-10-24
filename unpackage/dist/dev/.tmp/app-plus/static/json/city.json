@@ -1,0 +1,47 @@
+[{
+		"cityId": 0,
+		"city": "北京",
+		"trainName": ["北京南", "北京北", "北京"]
+
+	},  {
+		"cityId": 1,
+		"city": "上海",
+		"trainName": ["上海虹桥", "上海", "上海北"]
+	},{
+		"cityId": 2,
+		"city": "南京",
+		"trainName": ["南京南", "南京北", "南京"]
+	}, {
+		"cityId": 3,
+		"city": "沧州",
+		"trainName": ["沧州西", "沧州东"]
+	}, {
+		"cityId": 4,
+		"city": "德州",
+		"trainName": ["德州东", "南京北", "南京"]
+	}, {
+		"cityId": 5,
+		"city": "济南",
+		"trainName": ["济南西", "济南"]
+	}, {
+		"cityId": 6,
+		"city": "曲阜",
+		"trainName": ["曲阜东", "曲阜北"]
+	}, {
+		"cityId": 7,
+		"city": "枣庄",
+		"trainName": ["枣庄"]
+	}, {
+		"cityId": 8,
+		"city": "宿州",
+		"trainName": ["宿州", "宿州东"]
+	}, {
+		"cityId": 9,
+		"city": "镇江",
+		"trainName": ["镇江南", "镇江"]
+	}, {
+		"cityId": 10,
+		"city": "苏州",
+		"trainName": ["苏州北", "苏州南","苏州"]
+	}
+]
